@@ -1,4 +1,4 @@
-FAQs Accordion Project!!
+FAQs Accordian Project!!
 
 Welcome to the FAQs Accordian Project! 
 This project is designed to help you create a simple and interactive Frequently Asked Questions (FAQs) section for your website or application using HTML, CSS, and JavaScript. 
