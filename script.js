@@ -9,7 +9,9 @@ accordians.forEach(accordian => {
         if(icon.classList.contains('active')) {
             icon.classList.remove('active');
             answer.style.maxHeight = null;
-        } else {
+        } 
+        
+        else {
             icon.classList.add('active');
             answer.style.maxHeight = answer.scrollHeight + 'px';
         }
